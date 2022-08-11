@@ -23,3 +23,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 * Yaptığım ilk projenin resmi(umarım doğru anlamışımdır)
 ! [proje_resmi](C:\Users\Ma\Documents\Proje_ilk\kodluyoruzilkrepo\ilk_Repo.png)
+
+*deneme 
+
+# www.patika.dev
